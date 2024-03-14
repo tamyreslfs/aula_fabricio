@@ -1,0 +1,64 @@
+*{  margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Courier, Heather, Times New Roman, Courier New;
+}
+
+h1{ padding: 50px;
+    color: beige;
+    font-size: 30px;
+}
+
+h2{ color: rgb(111, 114, 116);
+    font-size: 25px;
+    text-align: center;
+}
+
+.limitador{
+    max-width: 1280px;
+    background-color: black;
+}
+
+.menu{
+    margin-top: 8px;
+}
+.menu a{
+    margin-right: 25px;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+.titulo{
+    background-color: black;
+    text-align: center;
+}
+
+.imagem{
+background-image: url(./foto.jpeg);
+background-position: center;
+background-repeat: no-repeat;
+width: 980px;
+height: 640px;
+}
+.sub_titulo{
+    background-color: black;
+    text-align: center;
+}
+
+.sobre_mim{
+    background-color: black;
+    text-align: center;
+}
+
+.contato{
+    background-color: black;
+    text-align: center;
+}
+
+.contato a{
+    margin-right: 25px;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 30px;
+}
